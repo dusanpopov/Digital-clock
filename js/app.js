@@ -1,3 +1,4 @@
+
 function displayTime() {
   let date = new Date();
   let hour = date.getHours();
